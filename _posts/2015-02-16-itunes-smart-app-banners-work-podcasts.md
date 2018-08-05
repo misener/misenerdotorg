@@ -18,9 +18,8 @@ I recently learned that iTunes Smart App Banners aren&#8217;t just for apps. The
 
 [<img src="http://misener.org/wp-content/uploads/2015/02/GRTTWaK_app_banner-528x139.png" alt="GRTTWaK_app_banner" width="528" height="139" class="alignnone size-medium wp-image-1786" srcset="/wordpress/wp-content/uploads/2015/02/GRTTWaK_app_banner-528x139.png 528w, /wordpress/wp-content/uploads/2015/02/GRTTWaK_app_banner.png 640w" sizes="(max-width: 528px) 100vw, 528px" />](https://itunes.apple.com/ca/podcast/grownups-read-things-they/id890900960?mt=2&uo=4&at=10lR7u)
 
-How? Just drop this into your `&#x3C;head&#x3E;`:
+How? Just drop this into your `<head>`:
 
-`&#x3C;meta name=&#x22;apple-itunes-app&#x22; content=&#x22;app-id=XXXXXXXXX&#x22;&#x3E;<br />
-` 
+`<meta name="apple-itunes-app" content="app-id=XXXXXXXXX">`
 
-Where XXXXXXXXX is your iTunes podcast ID.
+Where `XXXXXXXXX` is your iTunes podcast ID.
