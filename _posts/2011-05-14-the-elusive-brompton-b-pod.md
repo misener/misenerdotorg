@@ -14,7 +14,7 @@ tags:
   - b pod
   - brompton
 ---
-<img src="http://misener.org/wp-content/uploads/2011/05/bpod.jpg" alt="" title="bpod" width="661" height="500" class="alignnone size-full wp-image-963" srcset="http://home.misener.org/wordpress/wp-content/uploads/2011/05/bpod.jpg 661w, http://home.misener.org/wordpress/wp-content/uploads/2011/05/bpod-300x226.jpg 300w" sizes="(max-width: 661px) 100vw, 661px" />Jenna and I are planning some travel to far-off distant lands, and I&#8217;m really keen to take my [Brompton folding bicycle](http://www.brompton.co.uk/) along.
+<img src="http://misener.org/wp-content/uploads/2011/05/bpod.jpg" alt="" title="bpod" width="661" height="500" class="alignnone size-full wp-image-963" srcset="/wordpress/wp-content/uploads/2011/05/bpod.jpg 661w, /wordpress/wp-content/uploads/2011/05/bpod-300x226.jpg 300w" sizes="(max-width: 661px) 100vw, 661px" />Jenna and I are planning some travel to far-off distant lands, and I&#8217;m really keen to take my [Brompton folding bicycle](http://www.brompton.co.uk/) along.
 
 But how to transport the Brompton without damaging it? The [Brompton catalog](http://www.brompton.co.uk/technical/spares/category.asp?q=C2) lists something that I&#8217;ve had my eye on for a while: the &#8220;B Pod, a semi-rigid flight case; comes with castors and handle.&#8221; And after reading [this Flying with a Brompton](http://www.bikeforums.net/archive/index.php/t-218198.html) forum thread, a hard case sounds like a good idea.
 

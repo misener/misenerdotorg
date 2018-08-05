@@ -26,7 +26,7 @@ A &#8220;nuanced approach how things are shared&#8221; sounds an awful lot like 
 
 **My bet:** when these Google+ business profiles go live, they&#8217;ll be heavily tied into Google&#8217;s existing advertising infrastructure, and we&#8217;ll see the rollout of something very similar to Facebook&#8217;s ad targeting system:
 
-[<img class="alignnone size-medium wp-image-1082" title="Facebook Ad Sale" src="http://misener.org/wp-content/uploads/2011/07/facebook_ad_sale-300x244.png" alt="" width="300" height="244" srcset="http://home.misener.org/wordpress/wp-content/uploads/2011/07/facebook_ad_sale-300x244.png 300w, http://home.misener.org/wordpress/wp-content/uploads/2011/07/facebook_ad_sale.png 775w" sizes="(max-width: 300px) 100vw, 300px" />](http://misener.org/wp-content/uploads/2011/07/facebook_ad_sale.png)
+[<img class="alignnone size-medium wp-image-1082" title="Facebook Ad Sale" src="http://misener.org/wp-content/uploads/2011/07/facebook_ad_sale-300x244.png" alt="" width="300" height="244" srcset="/wordpress/wp-content/uploads/2011/07/facebook_ad_sale-300x244.png 300w, /wordpress/wp-content/uploads/2011/07/facebook_ad_sale.png 775w" sizes="(max-width: 300px) 100vw, 300px" />](http://misener.org/wp-content/uploads/2011/07/facebook_ad_sale.png)
 
 Think about it. If you&#8217;ve bought into the whole Google lifestyle, they have your search history, email, breadcrumbs scattered across the web through Analytics&#8230; and now, your social graph. What would _you_ do if your company had all of that?
 

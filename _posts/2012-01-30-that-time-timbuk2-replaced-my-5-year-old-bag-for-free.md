@@ -22,7 +22,7 @@ About five years ago, I bought a black/black/black Timbuk2 laptop messenger bag 
 
 But last summer, I noticed that my bag&#8217;s original velcro flap fasteners just weren&#8217;t as, well, velcro-y as they used to be:
 
-[<img class="alignnone size-medium wp-image-1135" title="DSC_0472" src="http://misener.org/wp-content/uploads/2011/09/DSC_0472-300x199.jpg" alt="" width="300" height="199" srcset="http://home.misener.org/wordpress/wp-content/uploads/2011/09/DSC_0472-300x199.jpg 300w, http://home.misener.org/wordpress/wp-content/uploads/2011/09/DSC_0472-1024x680.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://misener.org/wp-content/uploads/2011/09/DSC_0472.jpg)
+[<img class="alignnone size-medium wp-image-1135" title="DSC_0472" src="http://misener.org/wp-content/uploads/2011/09/DSC_0472-300x199.jpg" alt="" width="300" height="199" srcset="/wordpress/wp-content/uploads/2011/09/DSC_0472-300x199.jpg 300w, /wordpress/wp-content/uploads/2011/09/DSC_0472-1024x680.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://misener.org/wp-content/uploads/2011/09/DSC_0472.jpg)
 
 Not surprising for something that gets ripped apart several times daily. Still, a bit of a nuisance. So I emailed customerservice@timbuk2.com, and asked: &#8220;Can you suggest the best way to repair this?&#8221; The reply arrived later the same day:
 

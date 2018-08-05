@@ -32,7 +32,7 @@ Sound good? Here&#8217;s how I got it all set up, and some of the workarounds I&
 
 ## Getting a SIM card
 
-<img class="alignnone size-medium wp-image-1676" alt="Bell Nano SIM" src="http://misener.org/wp-content/uploads/2014/01/IMG_3193-5-528x352.jpg" width="528" height="352" srcset="http://home.misener.org/wordpress/wp-content/uploads/2014/01/IMG_3193-5-528x352.jpg 528w, http://home.misener.org/wordpress/wp-content/uploads/2014/01/IMG_3193-5-1024x682.jpg 1024w" sizes="(max-width: 528px) 100vw, 528px" />
+<img class="alignnone size-medium wp-image-1676" alt="Bell Nano SIM" src="http://misener.org/wp-content/uploads/2014/01/IMG_3193-5-528x352.jpg" width="528" height="352" srcset="/wordpress/wp-content/uploads/2014/01/IMG_3193-5-528x352.jpg 528w, /wordpress/wp-content/uploads/2014/01/IMG_3193-5-1024x682.jpg 1024w" sizes="(max-width: 528px) 100vw, 528px" />
 
 To pull this off, I first needed a Nano SIM card for my iPhone. [Bell sells Nano SIMs off-contract for $10](http://www.bell.ca/Mobility/Products/4G-LTE-Nano-SIM-card), but I&#8217;d heard that if you ask nicely, the Apple store gives them away for free.
 
@@ -48,7 +48,7 @@ Because Bell was running a promotion at the time, they waived the usual $35 setu
 
 Shortly after hanging up with Bell, I popped the Nano SIM into my iPhone, and was happy to see that everything worked with zero on-device configuration. Nice.
 
-<img class="alignnone size-medium wp-image-1677" alt="Secret Bell phone number" src="http://misener.org/wp-content/uploads/2014/01/IMG_4237-528x330.png" width="528" height="330" srcset="http://home.misener.org/wordpress/wp-content/uploads/2014/01/IMG_4237-528x330.png 528w, http://home.misener.org/wordpress/wp-content/uploads/2014/01/IMG_4237.png 640w" sizes="(max-width: 528px) 100vw, 528px" />
+<img class="alignnone size-medium wp-image-1677" alt="Secret Bell phone number" src="http://misener.org/wp-content/uploads/2014/01/IMG_4237-528x330.png" width="528" height="330" srcset="/wordpress/wp-content/uploads/2014/01/IMG_4237-528x330.png 528w, /wordpress/wp-content/uploads/2014/01/IMG_4237.png 640w" sizes="(max-width: 528px) 100vw, 528px" />
 
 **A side note:** despite signing up for a data-only plan, my Bell Nano SIM does have a Toronto-area 647 phone number associated with it. I _can_ place and receive calls, and send texts to and from this number. But I don&#8217;t, because calls and texts are billed by Bell at high rates ($0.40/min and $0.20/text in 2013), and I have better, cheaper workarounds (see below). That said, it&#8217;s nice to know that in an emergency, I _could_ make a good old-fashioned telephone call.
 
@@ -56,7 +56,7 @@ Shortly after hanging up with Bell, I popped the Nano SIM into my iPhone, and wa
 
 In my everyday use, Bell&#8217;s LTE is fast. This is typical:
 
-<img class="alignnone size-medium wp-image-1678" alt="Speedtest" src="http://misener.org/wp-content/uploads/2014/01/IMG_4239-2-528x243.png" width="528" height="243" srcset="http://home.misener.org/wordpress/wp-content/uploads/2014/01/IMG_4239-2-528x243.png 528w, http://home.misener.org/wordpress/wp-content/uploads/2014/01/IMG_4239-2.png 640w" sizes="(max-width: 528px) 100vw, 528px" />
+<img class="alignnone size-medium wp-image-1678" alt="Speedtest" src="http://misener.org/wp-content/uploads/2014/01/IMG_4239-2-528x243.png" width="528" height="243" srcset="/wordpress/wp-content/uploads/2014/01/IMG_4239-2-528x243.png 528w, /wordpress/wp-content/uploads/2014/01/IMG_4239-2.png 640w" sizes="(max-width: 528px) 100vw, 528px" />
 
 Bell&#8217;s top flex plan tier gives me up to 5GB/month &#8212; way more than I&#8217;ve ever actually used (outside of the first two &#8220;unlimited&#8221; months, when I went crazy). Data costs $10/GB if I ever go over.
 

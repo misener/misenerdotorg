@@ -19,7 +19,7 @@ tags:
   - superowl
   - the super times
 ---
-<img class="alignnone size-full wp-image-1330" title="Flipboard Audio" src="http://misener.org/wp-content/uploads/2012/05/IMG_0047.png" alt="Flipboard Audio" width="1024" height="768" srcset="http://home.misener.org/wordpress/wp-content/uploads/2012/05/IMG_0047.png 1024w, http://home.misener.org/wordpress/wp-content/uploads/2012/05/IMG_0047-300x225.png 300w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="alignnone size-full wp-image-1330" title="Flipboard Audio" src="http://misener.org/wp-content/uploads/2012/05/IMG_0047.png" alt="Flipboard Audio" width="1024" height="768" srcset="/wordpress/wp-content/uploads/2012/05/IMG_0047.png 1024w, /wordpress/wp-content/uploads/2012/05/IMG_0047-300x225.png 300w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 Today, [Flipboard added audio playback controls and a new Audio category to its app](http://thenextweb.com/apps/2012/05/16/flipboard-launches-new-audio-category-section/):
 

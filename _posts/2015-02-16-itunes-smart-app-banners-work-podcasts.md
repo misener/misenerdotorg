@@ -16,7 +16,7 @@ Starting with iOS 6, Apple introduced [Smart App Banners](https://developer.appl
 
 I recently learned that iTunes Smart App Banners aren&#8217;t just for apps. They work for podcasts listed in the iTunes directory, and they deep link directly to the built-in Podcast app:
 
-[<img src="http://misener.org/wp-content/uploads/2015/02/GRTTWaK_app_banner-528x139.png" alt="GRTTWaK_app_banner" width="528" height="139" class="alignnone size-medium wp-image-1786" srcset="http://home.misener.org/wordpress/wp-content/uploads/2015/02/GRTTWaK_app_banner-528x139.png 528w, http://home.misener.org/wordpress/wp-content/uploads/2015/02/GRTTWaK_app_banner.png 640w" sizes="(max-width: 528px) 100vw, 528px" />](https://itunes.apple.com/ca/podcast/grownups-read-things-they/id890900960?mt=2&uo=4&at=10lR7u)
+[<img src="http://misener.org/wp-content/uploads/2015/02/GRTTWaK_app_banner-528x139.png" alt="GRTTWaK_app_banner" width="528" height="139" class="alignnone size-medium wp-image-1786" srcset="/wordpress/wp-content/uploads/2015/02/GRTTWaK_app_banner-528x139.png 528w, /wordpress/wp-content/uploads/2015/02/GRTTWaK_app_banner.png 640w" sizes="(max-width: 528px) 100vw, 528px" />](https://itunes.apple.com/ca/podcast/grownups-read-things-they/id890900960?mt=2&uo=4&at=10lR7u)
 
 How? Just drop this into your `&#x3C;head&#x3E;`:
 

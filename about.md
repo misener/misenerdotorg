@@ -10,7 +10,7 @@ podPressPostSpecific:
 onswipe_thumb:
   - 'http://misener.org/wp-content/plugins/onswipe/thumb/thumb.php?src=http://misener.org/wp-content/uploads/2008/10/Dan.jpg&amp;w=600&amp;h=800&amp;zc=1&amp;q=75&amp;f=0'
 ---
-[<img class="alignnone size-full wp-image-1253" title="Dan Misener" src="http://misener.org/wp-content/uploads/2008/10/Dan.jpg" alt="" width="600" height="450" srcset="http://home.misener.org/wordpress/wp-content/uploads/2008/10/Dan.jpg 600w, http://home.misener.org/wordpress/wp-content/uploads/2008/10/Dan-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://misener.org/wp-content/uploads/2008/10/Dan.jpg)
+[<img class="alignnone size-full wp-image-1253" title="Dan Misener" src="http://misener.org/wp-content/uploads/2008/10/Dan.jpg" alt="" width="600" height="450" srcset="/wordpress/wp-content/uploads/2008/10/Dan.jpg 600w, /wordpress/wp-content/uploads/2008/10/Dan-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://misener.org/wp-content/uploads/2008/10/Dan.jpg)
 
 Hello. My name is Dan Misener.[^1] Here a few things about me:
 

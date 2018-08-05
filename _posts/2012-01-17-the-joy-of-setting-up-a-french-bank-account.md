@@ -17,7 +17,7 @@ tags:
   - jenna
   - lcl
 ---
-[<img class="alignnone size-full wp-image-1212" title="Jenna outside LCL" src="http://misener.org/wp-content/uploads/2012/01/photo-e1326817638584.jpg" alt="" width="600" height="450" srcset="http://home.misener.org/wordpress/wp-content/uploads/2012/01/photo-e1326817638584.jpg 600w, http://home.misener.org/wordpress/wp-content/uploads/2012/01/photo-e1326817638584-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://misener.org/wp-content/uploads/2012/01/photo-e1326817563584.jpg)
+[<img class="alignnone size-full wp-image-1212" title="Jenna outside LCL" src="http://misener.org/wp-content/uploads/2012/01/photo-e1326817638584.jpg" alt="" width="600" height="450" srcset="/wordpress/wp-content/uploads/2012/01/photo-e1326817638584.jpg 600w, /wordpress/wp-content/uploads/2012/01/photo-e1326817638584-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://misener.org/wp-content/uploads/2012/01/photo-e1326817563584.jpg)
 
 I&#8217;ll begin by saying we were warned.
 

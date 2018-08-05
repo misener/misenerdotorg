@@ -19,7 +19,7 @@ Late last month, Kickstarter quietly removed its &#8220;Open Hardware&#8221; cat
 
 At the same time, Kickstarter re-categorized every single &#8220;Open Hardware&#8221; project (past and present) into this new &#8220;Hardware&#8221; category.
 
-<img src="http://misener.org/wp-content/uploads/2012/10/Open-Hardware-528x344.png" alt="&quot;Open Hardware&quot; -> &quot;Hardware&quot;" title="&quot;Open Hardware&quot; -> &quot;Hardware&quot;" width="528" height="344" class="alignnone size-medium wp-image-1527" srcset="http://home.misener.org/wordpress/wp-content/uploads/2012/10/Open-Hardware-528x344.png 528w, http://home.misener.org/wordpress/wp-content/uploads/2012/10/Open-Hardware.png 1004w" sizes="(max-width: 528px) 100vw, 528px" />
+<img src="http://misener.org/wp-content/uploads/2012/10/Open-Hardware-528x344.png" alt="&quot;Open Hardware&quot; -> &quot;Hardware&quot;" title="&quot;Open Hardware&quot; -> &quot;Hardware&quot;" width="528" height="344" class="alignnone size-medium wp-image-1527" srcset="/wordpress/wp-content/uploads/2012/10/Open-Hardware-528x344.png 528w, /wordpress/wp-content/uploads/2012/10/Open-Hardware.png 1004w" sizes="(max-width: 528px) 100vw, 528px" />
 
 I reached out to Kickstarter about this.
 

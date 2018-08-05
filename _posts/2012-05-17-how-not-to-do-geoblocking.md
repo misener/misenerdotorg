@@ -35,7 +35,7 @@ My problem is how _The Big Decision_&#8216;s geoblocking is implemented.
 
 If I&#8217;m being geoblocked, _at least have the decency to tell me I&#8217;m being geoblocked_. Do this:
 
-<img class="alignnone size-full wp-image-1343" title="Helpful geoblocking message" src="http://misener.org/wp-content/uploads/2012/05/Screen-Shot-2012-05-17-at-4.37.08-PM.png" alt="" width="663" height="360" srcset="http://home.misener.org/wordpress/wp-content/uploads/2012/05/Screen-Shot-2012-05-17-at-4.37.08-PM.png 663w, http://home.misener.org/wordpress/wp-content/uploads/2012/05/Screen-Shot-2012-05-17-at-4.37.08-PM-300x162.png 300w" sizes="(max-width: 663px) 100vw, 663px" />
+<img class="alignnone size-full wp-image-1343" title="Helpful geoblocking message" src="http://misener.org/wp-content/uploads/2012/05/Screen-Shot-2012-05-17-at-4.37.08-PM.png" alt="" width="663" height="360" srcset="/wordpress/wp-content/uploads/2012/05/Screen-Shot-2012-05-17-at-4.37.08-PM.png 663w, /wordpress/wp-content/uploads/2012/05/Screen-Shot-2012-05-17-at-4.37.08-PM-300x162.png 300w" sizes="(max-width: 663px) 100vw, 663px" />
 
 I&#8217;m no UI genius, but it&#8217;s not hard to recognize that a completely blank screen and reverb-y robot voice that says, &#8220;This content is currently unavailable,&#8221; is less than ideal feedback. There&#8217;s just not enough information to be useful.
 

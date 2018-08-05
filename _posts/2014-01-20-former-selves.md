@@ -16,7 +16,7 @@ As anyone who&#8217;s been to [Grownups Read Things They Wrote as Kids](http://g
 And it&#8217;s a big part of what I love about Chino Otsuka&#8217;s photo series [Imagine Finding Me](http://chino.co.uk/gallery/IFM/ifm_intro.html). In it, Otsuka takes old family snapshots, and pastes in present-day versions of herself:
 
 <div id="attachment_1698" style="width: 538px" class="wp-caption alignnone">
-  <img class="size-medium wp-image-1698" alt="1976 + 2005, Japan" src="http://misener.org/wp-content/uploads/2014/01/411968707773-528x360.jpeg" width="528" height="360" srcset="http://home.misener.org/wordpress/wp-content/uploads/2014/01/411968707773-528x360.jpeg 528w, http://home.misener.org/wordpress/wp-content/uploads/2014/01/411968707773.jpeg 605w" sizes="(max-width: 528px) 100vw, 528px" />
+  <img class="size-medium wp-image-1698" alt="1976 + 2005, Japan" src="http://misener.org/wp-content/uploads/2014/01/411968707773-528x360.jpeg" width="528" height="360" srcset="/wordpress/wp-content/uploads/2014/01/411968707773-528x360.jpeg 528w, /wordpress/wp-content/uploads/2014/01/411968707773.jpeg 605w" sizes="(max-width: 528px) 100vw, 528px" />
   
   <p class="wp-caption-text">
     1976 + 2005, Japan

@@ -13,7 +13,7 @@ tags:
   - brompton
   - CBC
 ---
-<img class="alignnone size-medium wp-image-1651" alt="IMG_3851-1" src="http://misener.org/wp-content/uploads/2013/09/IMG_3851-1-e1379561989481-528x396.jpg" width="528" height="396" srcset="http://home.misener.org/wordpress/wp-content/uploads/2013/09/IMG_3851-1-e1379561989481-528x396.jpg 528w, http://home.misener.org/wordpress/wp-content/uploads/2013/09/IMG_3851-1-e1379561989481-1024x768.jpg 1024w" sizes="(max-width: 528px) 100vw, 528px" />
+<img class="alignnone size-medium wp-image-1651" alt="IMG_3851-1" src="http://misener.org/wp-content/uploads/2013/09/IMG_3851-1-e1379561989481-528x396.jpg" width="528" height="396" srcset="/wordpress/wp-content/uploads/2013/09/IMG_3851-1-e1379561989481-528x396.jpg 528w, /wordpress/wp-content/uploads/2013/09/IMG_3851-1-e1379561989481-1024x768.jpg 1024w" sizes="(max-width: 528px) 100vw, 528px" />
 
 **Update September 19, 2013:** Success! Thanks to a terrific, sympathetic manager or two (or three), our building&#8217;s &#8220;no bikes inside&#8221; policy will be re-written to accommodate folding bikes like my Brompton. The new rule: I have to keep my bike in a bag. Fair enough.
 

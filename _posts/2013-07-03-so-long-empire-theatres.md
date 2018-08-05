@@ -13,11 +13,11 @@ So, [Sobeys is getting out of the movie business](http://www.cbc.ca/news/busines
 
 I started working part-time at the Empire Theatres in Bedford, Nova Scotia in the spring of 1999 for $5.50 an hour. I know this because I still have one of my first paystubs:
 
-<img class="alignnone size-medium wp-image-1638" alt="Empire Theatres 1999 paystub" src="http://misener.org/wp-content/uploads/2013/07/Screenshot-2013-07-03-1011-PM-528x116.png" width="528" height="116" srcset="http://home.misener.org/wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1011-PM-528x116.png 528w, http://home.misener.org/wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1011-PM-1024x226.png 1024w, http://home.misener.org/wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1011-PM.png 1364w" sizes="(max-width: 528px) 100vw, 528px" />
+<img class="alignnone size-medium wp-image-1638" alt="Empire Theatres 1999 paystub" src="http://misener.org/wp-content/uploads/2013/07/Screenshot-2013-07-03-1011-PM-528x116.png" width="528" height="116" srcset="/wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1011-PM-528x116.png 528w, /wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1011-PM-1024x226.png 1024w, /wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1011-PM.png 1364w" sizes="(max-width: 528px) 100vw, 528px" />
 
 I worked at Empire Theatres for three and half years, until the end of 2002. By then, I was making the princely sum of $7.94 per hour:
 
-<img class="alignnone size-medium wp-image-1639" alt="Empire Theatres 2002 paystub" src="http://misener.org/wp-content/uploads/2013/07/Screenshot-2013-07-03-1012-PM-528x132.png" width="528" height="132" srcset="http://home.misener.org/wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1012-PM-528x132.png 528w, http://home.misener.org/wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1012-PM.png 715w" sizes="(max-width: 528px) 100vw, 528px" />
+<img class="alignnone size-medium wp-image-1639" alt="Empire Theatres 2002 paystub" src="http://misener.org/wp-content/uploads/2013/07/Screenshot-2013-07-03-1012-PM-528x132.png" width="528" height="132" srcset="/wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1012-PM-528x132.png 528w, /wordpress/wp-content/uploads/2013/07/Screenshot-2013-07-03-1012-PM.png 715w" sizes="(max-width: 528px) 100vw, 528px" />
 
 But what’s most astounding to me is the figure in the lower left hand corner: 4,206.70 hours is a bit more than 175 entire days. That’s just shy of half a year, which seems a little bit unbelievable.
 
